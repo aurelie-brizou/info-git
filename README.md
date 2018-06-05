@@ -1,4 +1,4 @@
-# Quelques commandes utiles de Git 
+﻿# Quelques commandes utiles de Git 
 
 ## Doc pour une première utilisation de Git 
 
@@ -25,7 +25,7 @@
 > exemple
 ![commande git commit](/pictures/ex_commit.png)
 
-
+5.  ```git fetch``` : permet de récupérer (fetch) les commits d'un dépôt distant
 
 
 
