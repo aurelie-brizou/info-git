@@ -11,7 +11,7 @@
 ![commande git init](/pictures/ex_init.png)
 
 
-2. ```git status``` : permet d'**afficher le statut** du projet git et voir les commits si il y en a
+2. ```git status``` : permet d'**afficher l'état** du projet git, affiche les fichiers detectés, ceux qu'il faut ajouter ou encore commiter 
 > exemple
 ![commande git status](/pictures/ex_status.png)
 
